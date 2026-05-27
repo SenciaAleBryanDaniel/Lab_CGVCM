@@ -5,11 +5,13 @@ TagManager:
   serializedVersion: 3
   tags:
   - Interactuable
+  - Piso
+  - Suelo
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Sintecho
   - Water
   - UI
   - 

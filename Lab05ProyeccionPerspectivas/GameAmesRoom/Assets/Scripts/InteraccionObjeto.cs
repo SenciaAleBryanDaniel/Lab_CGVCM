@@ -5,9 +5,9 @@ public class InteraccionObjeto : MonoBehaviour
 {
     [Header("Configuracion")]
     public Camera playerCamera;
-    public float distanciaAgarre = 3.5f;  // distancia frente a la camara
-    public float rangoInteraccion = 4f;   // distancia maxima para agarrar
-    public float velocidadEscala = 0.5f; // que tan rapido crece/encoge
+    public float distanciaAgarre = 3.5f;  
+    public float rangoInteraccion = 4f;   
+    public float velocidadEscala = 0.5f; 
     public float escalaMinima = 0.3f;
     public float escalaMaxima = 3f;
 
